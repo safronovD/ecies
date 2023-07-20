@@ -1,8 +1,6 @@
-module github.com/ecies/go/v2
+module github.com/safronovD/ecies
 
 require (
-	github.com/decred/dcrd/dcrec/secp256k1/v4 v4.2.0
-	github.com/ethereum/go-ethereum v1.12.0
 	github.com/stretchr/testify v1.8.4
 	golang.org/x/crypto v0.9.0
 )
